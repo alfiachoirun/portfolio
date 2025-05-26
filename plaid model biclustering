@@ -43,6 +43,7 @@ library(class)
 library(e1071) 
 library(shapefiles) 
 library(tmap) 
+
 # import shp 
 shp_banten <- readOGR("D:/ALFIA/KULIAH/SKRIPSI/shp_banten/Provinsi 
 Banten-KAB_KOTA_PL.shp") 
@@ -56,6 +57,7 @@ shp_diy <- readOGR("D:/ALFIA/KULIAH/SKRIPSI/shp_diy/Provinsi Daerah
 Istimewa Yogyakarta-KAB_KOTA_PL.shp") 
 shp_jatim <- readOGR("D:/ALFIA/KULIAH/SKRIPSI/shp_jatim/Provinsi 
 Jawa Timur-KAB_KOTA_PL.shp") 
+
 # SHP PULAU JAWA 
 shp_all = 
 rbind(shp_banten,shp_dki,shp_jabar,shp_jateng,shp_diy,shp_jatim) 
@@ -63,6 +65,7 @@ ID <- cbind(1:119)
 colnames(ID)[colnames(ID)=="V1"]="ID" 
 shp_all@data <- cbind(ID,shp_all@data) 
 View(shp_all) 
+
 # PETA BICLUSTER 1 
 kelompok1 <- read_excel("datafix.xlsx", sheet = "bicluster1") 
 View(kelompok1) 
@@ -77,16 +80,16 @@ plot(shp_all, density=16, col="grey", axes=F, cex.axis=.75)
 plot(shp_all, col=colcode, add=T) 
 text(coordinates(shp_jawa), labels=shp_jawa$kab_kota, cex=.5) 
 
-## PETA BICLUSTER 2 
+# PETA BICLUSTER 2 
 kelompok2 <- read_excel("datafix.xlsx", sheet = "bicluster2") 
 View(kelompok2) 
 temp <- merge(shp_all, kelompok2, by="ID", all.x=T, sort=F) 
 plotvar <- temp$kelompok 
 nclr <- 7 
-plotclr <- brewer.pal(nclr,"Blues") 
-plotclr <- plotclr[1:nclr] 
-class <- classIntervals(plotvar, nclr, style="equal") 
-colcode <- findColours(class, plotclr, digits=4) 
-plot(shp_all, density=16, col="grey", axes=F, cex.axis=.75) 
-plot(shp_all, col=colcode, add=T) 
-text(coordinates(shp_jawa), labels=shp_jawa$kab_kota, cex=.5) 
+plotclr <- brewer.pal(nclr,"Blues")
+plotclr <- plotclr[1:nclr]
+class <- classIntervals(plotvar, nclr, style="equal")
+colcode <- findColours(class, plotclr, digits=4)
+plot(shp_all, density=16, col="grey", axes=F, cex.axis=.75)
+plot(shp_all, col=colcode, add=T)
+text(coordinates(shp_jawa), labels=shp_jawa$kab_kota, cex=.5)
