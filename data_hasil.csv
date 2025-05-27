@@ -1,0 +1,355 @@
+LT,LB,KT,KM,garasi,carport,lokasi,sertifikat,listrik,harga,kota
+202.0,198.0,8,3,1,1,Jakarta Pusat,SHM,2200.0,4500000000.0,Jakarta
+30.0,55.0,2,1,1,1,Jakarta Pusat,SHM,2200.0,1100000000.0,Jakarta
+19.0,35.0,2,1,1,1,Jakarta Pusat,SHM,2200.0,395000000.0,Jakarta
+33.0,42.0,2,2,1,1,Jakarta Pusat,SHM,2200.0,835000000.0,Jakarta
+30.0,55.0,2,2,1,1,Jakarta Pusat,SHM,2200.0,1100000000.0,Jakarta
+217.0,245.0,6,4,1,2,Jakarta Pusat,SHM,4400.0,5500000000.0,Jakarta
+424.0,1000.0,4,5,1,1,Jakarta Pusat,SHM,33000.0,49500000000.0,Jakarta
+597.0,700.0,5,4,2,5,Jakarta Pusat,SHM,8000.0,40000000000.0,Jakarta
+60.0,98.0,3,3,1,1,Jakarta Pusat,SHM,2200.0,1700000000.0,Jakarta
+33.0,42.0,2,1,1,1,Jakarta Pusat,SHM,2200.0,835000000.0,Jakarta
+71.0,83.0,3,2,1,1,Jakarta Pusat,SHM,2200.0,1880000000.0,Jakarta
+75.0,260.0,10,10,1,3,Jakarta Pusat,SHM,3500.0,5300000000.0,Jakarta
+45.0,71.0,3,2,1,1,Jakarta Pusat,SHM,2200.0,1390000000.0,Jakarta
+24.0,46.0,2,1,1,1,Jakarta Pusat,SHM,2200.0,450000000.0,Jakarta
+3422.0,64.0,1,1,1,1,Jakarta Pusat,SHM,2200.0,1050000000.0,Jakarta
+23.0,40.0,2,2,1,1,Jakarta Pusat,SHM,2200.0,735000000.0,Jakarta
+50.0,115.0,3,2,1,1,Jakarta Pusat,SHM,2200.0,1200000000.0,Jakarta
+652.0,405.0,5,4,1,4,Jakarta Pusat,SHM,6600.0,45000000000.0,Jakarta
+840.0,800.0,5,3,1,8,Jakarta Pusat,SHGB,6600.0,39990000000.0,Jakarta
+21.0,37.0,2,1,1,1,Jakarta Pusat,SHM,1300.0,533000000.0,Jakarta
+16.0,32.0,1,1,1,1,Jakarta Pusat,SHM,2200.0,380000000.0,Jakarta
+700.0,2000.0,10,10,1,10,Jakarta Pusat,SHM,66000.0,105000000000.0,Jakarta
+18.0,33.0,2,1,1,1,Jakarta Pusat,SHM,2200.0,425000000.0,Jakarta
+1000.0,450.0,6,3,1,6,Jakarta Selatan,SHM,23000.0,15000000000.0,Jakarta
+189.0,250.0,7,4,3,1,Jakarta Selatan,SHM + IMB,7700.0,9500000000.0,Jakarta
+390.0,200.0,7,2,1,1,Jakarta Selatan,SHM,1300.0,3500000000.0,Jakarta
+124.0,330.0,5,3,1,1,Jakarta Selatan,SHM,6600.0,6500000000.0,Jakarta
+225.0,425.0,5,4,1,2,Jakarta Selatan,SHM,3300.0,9500000000.0,Jakarta
+290.0,460.0,7,5,2,2,Jakarta Selatan,SHM + IMB,3500.0,8250000000.0,Jakarta
+432.0,400.0,3,2,2,2,Jakarta Selatan,SHM,2200.0,10500000000.0,Jakarta
+243.0,529.0,6,6,4,2,Jakarta Selatan,SHM + IMB + PBB,11000.0,13500000000.0,Jakarta
+239.0,178.0,4,3,1,4,Jakarta Selatan,SHM + Hak Pakai,2200.0,3800000000.0,Jakarta
+130.0,250.0,5,3,1,1,Jakarta Selatan,SHM,3500.0,3900000000.0,Jakarta
+97.0,311.0,4,4,2,1,Jakarta Selatan,SHM,11000.0,6500000000.0,Jakarta
+485.0,550.0,3,5,1,1,Jakarta Selatan,SHM + IMB,18000.0,22000000000.0,Jakarta
+90.0,135.0,3,3,1,1,Jakarta Selatan,SHGB,2200.0,3100000000.0,Jakarta
+511.0,463.0,6,3,1,1,Jakarta Selatan,SHM,33000.0,4480000000.0,Jakarta
+205.0,410.0,6,5,1,1,Jakarta Selatan,SHM + IMB,4500.0,5500000000.0,Jakarta
+695.0,650.0,8,6,1,1,Jakarta Selatan,SHM,5500.0,9200000000.0,Jakarta
+135.0,216.0,5,4,1,1,Jakarta Selatan,SHM,3500.0,4100000000.0,Jakarta
+612.0,485.0,5,4,1,2,Jakarta Selatan,SHM,13000.0,18500000000.0,Jakarta
+790.0,700.0,6,6,1,6,Jakarta Selatan,SHM,7700.0,32000000000.0,Jakarta
+950.0,1400.0,6,4,7,1,Jakarta Selatan,SHM,23000.0,49000000000.0,Jakarta
+60.0,48.0,3,2,2,1,Jakarta Selatan,SHM,2200.0,600000000.0,Jakarta
+738.0,500.0,5,3,2,2,Jakarta Selatan,SHM + IMB,13200.0,74000000000.0,Jakarta
+719.0,657.0,10,6,2,2,Jakarta Selatan,SHM,26400.0,40000000000.0,Jakarta
+85.0,180.0,3,2,1,1,Jakarta Barat,SHM,5500.0,2400000000.0,Jakarta
+47.0,90.0,3,3,1,1,Jakarta Barat,SHM,2200.0,1300000000.0,Jakarta
+90.0,102.0,4,3,1,1,Jakarta Barat,PPJB,4400.0,1700000000.0,Jakarta
+160.0,400.0,5,5,1,2,Jakarta Barat,SHM,7700.0,5150000000.0,Jakarta
+84.0,200.0,6,4,1,1,Jakarta Barat,SHM,4400.0,3800000000.0,Jakarta
+147.0,82.0,3,3,1,1,Jakarta Barat,SHM,2200.0,2288809000.0,Jakarta
+49.0,80.0,3,2,1,1,Jakarta Barat,SHM,2200.0,850000000.0,Jakarta
+52.0,72.0,1,2,1,1,Jakarta Barat,SHGB,2200.0,1000000000.0,Jakarta
+79.0,160.0,3,2,1,1,Jakarta Barat,SHM,3500.0,1250000000.0,Jakarta
+140.0,202.0,5,4,1,1,Jakarta Barat,SHM,3500.0,3400000000.0,Jakarta
+400.0,750.0,4,3,1,2,Jakarta Barat,SHM,5500.0,8000000000.0,Jakarta
+119.0,154.0,2,2,1,1,Jakarta Barat,SHM,3500.0,2500000000.0,Jakarta
+184.0,250.0,5,4,1,3,Jakarta Barat,SHM,4400.0,3200000000.0,Jakarta
+90.0,200.0,3,3,1,2,Jakarta Barat,SHM,3500.0,1900000000.0,Jakarta
+863.0,500.0,5,3,5,3,Jakarta Barat,SHM,3500.0,8630000000.0,Jakarta
+140.0,224.0,3,2,1,1,Jakarta Barat,SHM,3500.0,3500000000.0,Jakarta
+120.0,110.0,5,2,1,1,Jakarta Barat,SHM,2200.0,1700000000.0,Jakarta
+500.0,400.0,7,4,2,1,Jakarta Barat,SHM,11000.0,10000000000.0,Jakarta
+200.0,248.0,4,4,1,2,Jakarta Barat,SHM,3500.0,6518000000.0,Jakarta
+60.0,31.0,2,1,1,1,Jakarta Barat,SHGB,1300.0,497322000.0,Jakarta
+120.0,240.0,3,3,1,3,Jakarta Barat,SHM,4400.0,30000000000.0,Jakarta
+128.0,250.0,4,3,1,2,Jakarta Barat,SHGB,5500.0,3099000000.0,Jakarta
+300.0,400.0,5,4,1,2,Jakarta Barat,SHM,5500.0,4200000000.0,Jakarta
+90.0,200.0,3,3,1,1,Jakarta Barat,SHM,3500.0,1900000000.0,Jakarta
+168.0,220.0,4,4,1,1,Jakarta Barat,SHM,3300.0,4500000000.0,Jakarta
+160.0,275.0,5,5,1,2,Jakarta Utara ,SHM,3500.0,4850000000.0,Jakarta
+130.0,90.0,4,3,1,1,Jakarta Utara ,SHM,4400.0,2100000000.0,Jakarta
+170.0,325.0,5,4,2,2,Jakarta Utara ,SHM,3500.0,4750000000.0,Jakarta
+98.0,126.0,4,4,2,2,Jakarta Utara ,SHM,2200.0,35000000000.0,Jakarta
+330.0,400.0,5,6,3,3,Jakarta Utara ,SHM,9900.0,8500000000.0,Jakarta
+144.0,250.0,4,4,1,1,Jakarta Utara ,PPJB,4400.0,8200000000.0,Jakarta
+260.0,300.0,3,2,1,1,Jakarta Utara ,SHGB,2200.0,39500000000.0,Jakarta
+144.0,297.0,5,3,2,2,Jakarta Utara ,SHM,4400.0,8500000000.0,Jakarta
+162.0,140.0,4,4,1,1,Jakarta Utara ,PPJB,2200.0,1500000000.0,Jakarta
+60.0,39.0,1,2,1,1,Jakarta Utara ,SHM,2200.0,718421053.0,Jakarta
+90.0,36.0,1,2,1,1,Jakarta Utara ,SHM,1300.0,498000000.0,Jakarta
+36.0,21.0,1,1,1,1,Jakarta Utara ,SHM,1300.0,440000000.0,Jakarta
+150.0,350.0,10,10,1,1,Jakarta Utara ,SHM,900.0,3000000000.0,Jakarta
+90.0,267.0,5,5,1,2,Jakarta Utara ,SHM,3500.0,4500000000.0,Jakarta
+150.0,200.0,3,2,1,1,Jakarta Utara ,SHM,2200.0,3100000000.0,Jakarta
+240.0,200.0,3,1,1,1,Jakarta Utara ,SHGB,1300.0,2300000000.0,Jakarta
+250.0,350.0,5,4,1,1,Jakarta Utara ,SHGB,4400.0,2700000000.0,Jakarta
+175.0,512.0,6,5,1,1,Jakarta Utara ,SHM,5500.0,7250000000.0,Jakarta
+200.0,300.0,5,5,1,2,Jakarta Utara ,SHM,4400.0,5900000000.0,Jakarta
+375.0,198.0,7,3,1,1,Jakarta Utara ,SHM,1300.0,2400000000.0,Jakarta
+320.0,600.0,5,5,1,2,Jakarta Utara ,SHM,5500.0,7500000000.0,Jakarta
+160.0,482.0,8,6,1,1,Jakarta Utara ,SHM,1300.0,4500000000.0,Jakarta
+640.0,1200.0,6,5,1,2,Jakarta Utara ,SHM,9500.0,39000000000.0,Jakarta
+80.0,105.0,4,3,1,1,Jakarta Utara ,PPJB,4400.0,2500000000.0,Jakarta
+232.0,300.0,5,3,1,3,Jakarta Timur,SHM + IMB,7700.0,4200000000.0,Jakarta
+153.0,180.0,5,5,1,2,Jakarta Timur,PPJB,3500.0,5500000000.0,Jakarta
+30.0,60.0,3,2,1,1,Jakarta Timur,AJB,1300.0,420000000.0,Jakarta
+317.0,200.0,4,2,1,2,Jakarta Timur,SHM,2200.0,3500000000.0,Jakarta
+90.0,75.0,4,3,1,1,Jakarta Timur,SHM,2200.0,1650000000.0,Jakarta
+124.0,150.0,6,4,1,1,Jakarta Timur,SHM,3500.0,2350000000.0,Jakarta
+98.0,115.0,4,5,1,1,Jakarta Timur,PPJB,3500.0,2750000000.0,Jakarta
+95.0,250.0,4,4,1,2,Jakarta Timur,SHM + IMB,4400.0,3300000000.0,Jakarta
+100.0,170.0,4,4,1,2,Jakarta Timur,SHM,3500.0,2500000000.0,Jakarta
+72.0,69.0,3,2,2,2,Jakarta Timur,SHM,2200.0,890000000.0,Jakarta
+72.0,97.0,3,2,1,2,Jakarta Timur,SHM,2200.0,1310000000.0,Jakarta
+112.0,156.0,4,3,2,2,Jakarta Timur,SHM,3500.0,3600000000.0,Jakarta
+109.0,160.0,5,4,1,2,Jakarta Timur,SHM + IMB,2200.0,2400000000.0,Jakarta
+86.0,45.0,2,1,1,1,Jakarta Timur,SHM,1300.0,690000000.0,Jakarta
+96.0,69.0,3,3,1,1,Jakarta Timur,SHM,2200.0,1600000000.0,Jakarta
+67.0,134.0,3,2,1,1,Jakarta Timur,SHM + IMB,2200.0,1150000000.0,Jakarta
+122.0,160.0,5,5,1,2,Jakarta Timur,SHM,2200.0,2465000000.0,Jakarta
+90.0,90.0,3,2,1,2,Jakarta Timur,SHM,2200.0,1398000000.0,Jakarta
+220.0,239.0,5,4,1,2,Jakarta Timur,PPJB,3500.0,3850000000.0,Jakarta
+70.0,57.0,3,2,1,2,Jakarta Timur,SHM,2200.0,880000000.0,Jakarta
+315.0,280.0,4,3,1,2,Jakarta Timur,SHM + IMB,3500.0,4300000000.0,Jakarta
+135.0,190.0,5,5,1,2,Jakarta Timur,SHM + IMB,2200.0,3400000000.0,Jakarta
+144.0,250.0,5,5,1,2,Jakarta Timur,SHM,3500.0,2250000000.0,Jakarta
+202.0,198.0,8,3,1,1,Jakarta Pusat,SHM,2200.0,4500000000.0,Depok
+30.0,55.0,2,1,1,1,Jakarta Pusat,SHM,2200.0,1100000000.0,Depok
+19.0,35.0,2,1,1,1,Jakarta Pusat,SHM,2200.0,395000000.0,Depok
+33.0,42.0,2,2,1,1,Jakarta Pusat,SHM,2200.0,835000000.0,Depok
+30.0,55.0,2,2,1,1,Jakarta Pusat,SHM,2200.0,1100000000.0,Depok
+217.0,245.0,6,4,1,2,Jakarta Pusat,SHM,4400.0,5500000000.0,Depok
+424.0,1000.0,4,5,1,1,Jakarta Pusat,SHM,33000.0,49500000000.0,Depok
+597.0,700.0,5,4,2,5,Jakarta Pusat,SHM,8000.0,40000000000.0,Depok
+60.0,98.0,3,3,1,1,Jakarta Pusat,SHM,2200.0,1700000000.0,Depok
+33.0,42.0,2,1,1,1,Jakarta Pusat,SHM,2200.0,835000000.0,Depok
+71.0,83.0,3,2,1,1,Jakarta Pusat,SHM,2200.0,1880000000.0,Depok
+75.0,260.0,10,10,1,3,Jakarta Pusat,SHM,3500.0,5300000000.0,Depok
+45.0,71.0,3,2,1,1,Jakarta Pusat,SHM,2200.0,1390000000.0,Depok
+24.0,46.0,2,1,1,1,Jakarta Pusat,SHM,2200.0,450000000.0,Depok
+3422.0,64.0,1,1,1,1,Jakarta Pusat,SHM,2200.0,1050000000.0,Depok
+23.0,40.0,2,2,1,1,Jakarta Pusat,SHM,2200.0,735000000.0,Depok
+50.0,115.0,3,2,1,1,Jakarta Pusat,SHM,2200.0,1200000000.0,Depok
+652.0,405.0,5,4,1,4,Jakarta Pusat,SHM,6600.0,45000000000.0,Depok
+840.0,800.0,5,3,1,8,Jakarta Pusat,SHGB,6600.0,39990000000.0,Depok
+21.0,37.0,2,1,1,1,Jakarta Pusat,SHM,1300.0,533000000.0,Depok
+16.0,32.0,1,1,1,1,Jakarta Pusat,SHM,2200.0,380000000.0,Depok
+700.0,2000.0,10,10,1,10,Jakarta Pusat,SHM,66000.0,105000000000.0,Depok
+18.0,33.0,2,1,1,1,Jakarta Pusat,SHM,2200.0,425000000.0,Depok
+1000.0,450.0,6,3,1,6,Jakarta Selatan,SHM,23000.0,15000000000.0,Depok
+189.0,250.0,7,4,3,1,Jakarta Selatan,SHM + IMB,7700.0,9500000000.0,Depok
+390.0,200.0,7,2,1,1,Jakarta Selatan,SHM,1300.0,3500000000.0,Depok
+124.0,330.0,5,3,1,1,Jakarta Selatan,SHM,6600.0,6500000000.0,Depok
+225.0,425.0,5,4,1,2,Jakarta Selatan,SHM,3300.0,9500000000.0,Depok
+290.0,460.0,7,5,2,2,Jakarta Selatan,SHM + IMB,3500.0,8250000000.0,Depok
+432.0,400.0,3,2,2,2,Jakarta Selatan,SHM,2200.0,10500000000.0,Depok
+243.0,529.0,6,6,4,2,Jakarta Selatan,SHM + IMB + PBB,11000.0,13500000000.0,Depok
+239.0,178.0,4,3,1,4,Jakarta Selatan,SHM + Hak Pakai,2200.0,3800000000.0,Depok
+130.0,250.0,5,3,1,1,Jakarta Selatan,SHM,3500.0,3900000000.0,Depok
+97.0,311.0,4,4,2,1,Jakarta Selatan,SHM,11000.0,6500000000.0,Depok
+485.0,550.0,3,5,1,1,Jakarta Selatan,SHM + IMB,18000.0,22000000000.0,Depok
+90.0,135.0,3,3,1,1,Jakarta Selatan,SHGB,2200.0,3100000000.0,Depok
+511.0,463.0,6,3,1,1,Jakarta Selatan,SHM,33000.0,4480000000.0,Depok
+205.0,410.0,6,5,1,1,Jakarta Selatan,SHM + IMB,4500.0,5500000000.0,Depok
+695.0,650.0,8,6,1,1,Jakarta Selatan,SHM,5500.0,9200000000.0,Depok
+135.0,216.0,5,4,1,1,Jakarta Selatan,SHM,3500.0,4100000000.0,Depok
+612.0,485.0,5,4,1,2,Jakarta Selatan,SHM,13000.0,18500000000.0,Depok
+790.0,700.0,6,6,1,6,Jakarta Selatan,SHM,7700.0,32000000000.0,Depok
+950.0,1400.0,6,4,7,1,Jakarta Selatan,SHM,23000.0,49000000000.0,Depok
+60.0,48.0,3,2,2,1,Jakarta Selatan,SHM,2200.0,600000000.0,Depok
+738.0,500.0,5,3,2,2,Jakarta Selatan,SHM + IMB,13200.0,74000000000.0,Depok
+719.0,657.0,10,6,2,2,Jakarta Selatan,SHM,26400.0,40000000000.0,Depok
+85.0,180.0,3,2,1,1,Jakarta Barat,SHM,5500.0,2400000000.0,Depok
+47.0,90.0,3,3,1,1,Jakarta Barat,SHM,2200.0,1300000000.0,Depok
+90.0,102.0,4,3,1,1,Jakarta Barat,PPJB,4400.0,1700000000.0,Depok
+160.0,400.0,5,5,1,2,Jakarta Barat,SHM,7700.0,5150000000.0,Depok
+84.0,200.0,6,4,1,1,Jakarta Barat,SHM,4400.0,3800000000.0,Depok
+147.0,82.0,3,3,1,1,Jakarta Barat,SHM,2200.0,2288809000.0,Depok
+49.0,80.0,3,2,1,1,Jakarta Barat,SHM,2200.0,850000000.0,Depok
+52.0,72.0,1,2,1,1,Jakarta Barat,SHGB,2200.0,1000000000.0,Depok
+79.0,160.0,3,2,1,1,Jakarta Barat,SHM,3500.0,1250000000.0,Depok
+140.0,202.0,5,4,1,1,Jakarta Barat,SHM,3500.0,3400000000.0,Depok
+400.0,750.0,4,3,1,2,Jakarta Barat,SHM,5500.0,8000000000.0,Depok
+119.0,154.0,2,2,1,1,Jakarta Barat,SHM,3500.0,2500000000.0,Depok
+184.0,250.0,5,4,1,3,Jakarta Barat,SHM,4400.0,3200000000.0,Depok
+90.0,200.0,3,3,1,2,Jakarta Barat,SHM,3500.0,1900000000.0,Depok
+863.0,500.0,5,3,5,3,Jakarta Barat,SHM,3500.0,8630000000.0,Depok
+140.0,224.0,3,2,1,1,Jakarta Barat,SHM,3500.0,3500000000.0,Depok
+120.0,110.0,5,2,1,1,Jakarta Barat,SHM,2200.0,1700000000.0,Depok
+500.0,400.0,7,4,2,1,Jakarta Barat,SHM,11000.0,10000000000.0,Depok
+200.0,248.0,4,4,1,2,Jakarta Barat,SHM,3500.0,6518000000.0,Depok
+60.0,31.0,2,1,1,1,Jakarta Barat,SHGB,1300.0,497322000.0,Depok
+120.0,240.0,3,3,1,3,Jakarta Barat,SHM,4400.0,30000000000.0,Depok
+128.0,250.0,4,3,1,2,Jakarta Barat,SHGB,5500.0,3099000000.0,Depok
+300.0,400.0,5,4,1,2,Jakarta Barat,SHM,5500.0,4200000000.0,Depok
+90.0,200.0,3,3,1,1,Jakarta Barat,SHM,3500.0,1900000000.0,Depok
+168.0,220.0,4,4,1,1,Jakarta Barat,SHM,3300.0,4500000000.0,Depok
+160.0,275.0,5,5,1,2,Jakarta Utara ,SHM,3500.0,4850000000.0,Depok
+130.0,90.0,4,3,1,1,Jakarta Utara ,SHM,4400.0,2100000000.0,Depok
+170.0,325.0,5,4,2,2,Jakarta Utara ,SHM,3500.0,4750000000.0,Depok
+98.0,126.0,4,4,2,2,Jakarta Utara ,SHM,2200.0,35000000000.0,Depok
+330.0,400.0,5,6,3,3,Jakarta Utara ,SHM,9900.0,8500000000.0,Depok
+144.0,250.0,4,4,1,1,Jakarta Utara ,PPJB,4400.0,8200000000.0,Depok
+260.0,300.0,3,2,1,1,Jakarta Utara ,SHGB,2200.0,39500000000.0,Depok
+144.0,297.0,5,3,2,2,Jakarta Utara ,SHM,4400.0,8500000000.0,Depok
+162.0,140.0,4,4,1,1,Jakarta Utara ,PPJB,2200.0,1500000000.0,Depok
+60.0,39.0,1,2,1,1,Jakarta Utara ,SHM,2200.0,718421053.0,Depok
+90.0,36.0,1,2,1,1,Jakarta Utara ,SHM,1300.0,498000000.0,Depok
+36.0,21.0,1,1,1,1,Jakarta Utara ,SHM,1300.0,440000000.0,Depok
+150.0,350.0,10,10,1,1,Jakarta Utara ,SHM,900.0,3000000000.0,Depok
+90.0,267.0,5,5,1,2,Jakarta Utara ,SHM,3500.0,4500000000.0,Depok
+150.0,200.0,3,2,1,1,Jakarta Utara ,SHM,2200.0,3100000000.0,Depok
+240.0,200.0,3,1,1,1,Jakarta Utara ,SHGB,1300.0,2300000000.0,Depok
+250.0,350.0,5,4,1,1,Jakarta Utara ,SHGB,4400.0,2700000000.0,Depok
+175.0,512.0,6,5,1,1,Jakarta Utara ,SHM,5500.0,7250000000.0,Depok
+200.0,300.0,5,5,1,2,Jakarta Utara ,SHM,4400.0,5900000000.0,Depok
+375.0,198.0,7,3,1,1,Jakarta Utara ,SHM,1300.0,2400000000.0,Depok
+320.0,600.0,5,5,1,2,Jakarta Utara ,SHM,5500.0,7500000000.0,Depok
+160.0,482.0,8,6,1,1,Jakarta Utara ,SHM,1300.0,4500000000.0,Depok
+640.0,1200.0,6,5,1,2,Jakarta Utara ,SHM,9500.0,39000000000.0,Depok
+80.0,105.0,4,3,1,1,Jakarta Utara ,PPJB,4400.0,2500000000.0,Depok
+232.0,300.0,5,3,1,3,Jakarta Timur,SHM + IMB,7700.0,4200000000.0,Depok
+153.0,180.0,5,5,1,2,Jakarta Timur,PPJB,3500.0,5500000000.0,Depok
+30.0,60.0,3,2,1,1,Jakarta Timur,AJB,1300.0,420000000.0,Depok
+317.0,200.0,4,2,1,2,Jakarta Timur,SHM,2200.0,3500000000.0,Depok
+90.0,75.0,4,3,1,1,Jakarta Timur,SHM,2200.0,1650000000.0,Depok
+124.0,150.0,6,4,1,1,Jakarta Timur,SHM,3500.0,2350000000.0,Depok
+98.0,115.0,4,5,1,1,Jakarta Timur,PPJB,3500.0,2750000000.0,Depok
+95.0,250.0,4,4,1,2,Jakarta Timur,SHM + IMB,4400.0,3300000000.0,Depok
+100.0,170.0,4,4,1,2,Jakarta Timur,SHM,3500.0,2500000000.0,Depok
+72.0,69.0,3,2,2,2,Jakarta Timur,SHM,2200.0,890000000.0,Depok
+72.0,97.0,3,2,1,2,Jakarta Timur,SHM,2200.0,1310000000.0,Depok
+112.0,156.0,4,3,2,2,Jakarta Timur,SHM,3500.0,3600000000.0,Depok
+109.0,160.0,5,4,1,2,Jakarta Timur,SHM + IMB,2200.0,2400000000.0,Depok
+86.0,45.0,2,1,1,1,Jakarta Timur,SHM,1300.0,690000000.0,Depok
+96.0,69.0,3,3,1,1,Jakarta Timur,SHM,2200.0,1600000000.0,Depok
+67.0,134.0,3,2,1,1,Jakarta Timur,SHM + IMB,2200.0,1150000000.0,Depok
+122.0,160.0,5,5,1,2,Jakarta Timur,SHM,2200.0,2465000000.0,Depok
+90.0,90.0,3,2,1,2,Jakarta Timur,SHM,2200.0,1398000000.0,Depok
+220.0,239.0,5,4,1,2,Jakarta Timur,PPJB,3500.0,3850000000.0,Depok
+70.0,57.0,3,2,1,2,Jakarta Timur,SHM,2200.0,880000000.0,Depok
+315.0,280.0,4,3,1,2,Jakarta Timur,SHM + IMB,3500.0,4300000000.0,Depok
+135.0,190.0,5,5,1,2,Jakarta Timur,SHM + IMB,2200.0,3400000000.0,Depok
+144.0,250.0,5,5,1,2,Jakarta Timur,SHM,3500.0,2250000000.0,Depok
+202.0,198.0,8,3,1,1,Jakarta Pusat,SHM,2200.0,4500000000.0,Tangerang
+30.0,55.0,2,1,1,1,Jakarta Pusat,SHM,2200.0,1100000000.0,Tangerang
+19.0,35.0,2,1,1,1,Jakarta Pusat,SHM,2200.0,395000000.0,Tangerang
+33.0,42.0,2,2,1,1,Jakarta Pusat,SHM,2200.0,835000000.0,Tangerang
+30.0,55.0,2,2,1,1,Jakarta Pusat,SHM,2200.0,1100000000.0,Tangerang
+217.0,245.0,6,4,1,2,Jakarta Pusat,SHM,4400.0,5500000000.0,Tangerang
+424.0,1000.0,4,5,1,1,Jakarta Pusat,SHM,33000.0,49500000000.0,Tangerang
+597.0,700.0,5,4,2,5,Jakarta Pusat,SHM,8000.0,40000000000.0,Tangerang
+60.0,98.0,3,3,1,1,Jakarta Pusat,SHM,2200.0,1700000000.0,Tangerang
+33.0,42.0,2,1,1,1,Jakarta Pusat,SHM,2200.0,835000000.0,Tangerang
+71.0,83.0,3,2,1,1,Jakarta Pusat,SHM,2200.0,1880000000.0,Tangerang
+75.0,260.0,10,10,1,3,Jakarta Pusat,SHM,3500.0,5300000000.0,Tangerang
+45.0,71.0,3,2,1,1,Jakarta Pusat,SHM,2200.0,1390000000.0,Tangerang
+24.0,46.0,2,1,1,1,Jakarta Pusat,SHM,2200.0,450000000.0,Tangerang
+3422.0,64.0,1,1,1,1,Jakarta Pusat,SHM,2200.0,1050000000.0,Tangerang
+23.0,40.0,2,2,1,1,Jakarta Pusat,SHM,2200.0,735000000.0,Tangerang
+50.0,115.0,3,2,1,1,Jakarta Pusat,SHM,2200.0,1200000000.0,Tangerang
+652.0,405.0,5,4,1,4,Jakarta Pusat,SHM,6600.0,45000000000.0,Tangerang
+840.0,800.0,5,3,1,8,Jakarta Pusat,SHGB,6600.0,39990000000.0,Tangerang
+21.0,37.0,2,1,1,1,Jakarta Pusat,SHM,1300.0,533000000.0,Tangerang
+16.0,32.0,1,1,1,1,Jakarta Pusat,SHM,2200.0,380000000.0,Tangerang
+700.0,2000.0,10,10,1,10,Jakarta Pusat,SHM,66000.0,105000000000.0,Tangerang
+18.0,33.0,2,1,1,1,Jakarta Pusat,SHM,2200.0,425000000.0,Tangerang
+1000.0,450.0,6,3,1,6,Jakarta Selatan,SHM,23000.0,15000000000.0,Tangerang
+189.0,250.0,7,4,3,1,Jakarta Selatan,SHM + IMB,7700.0,9500000000.0,Tangerang
+390.0,200.0,7,2,1,1,Jakarta Selatan,SHM,1300.0,3500000000.0,Tangerang
+124.0,330.0,5,3,1,1,Jakarta Selatan,SHM,6600.0,6500000000.0,Tangerang
+225.0,425.0,5,4,1,2,Jakarta Selatan,SHM,3300.0,9500000000.0,Tangerang
+290.0,460.0,7,5,2,2,Jakarta Selatan,SHM + IMB,3500.0,8250000000.0,Tangerang
+432.0,400.0,3,2,2,2,Jakarta Selatan,SHM,2200.0,10500000000.0,Tangerang
+243.0,529.0,6,6,4,2,Jakarta Selatan,SHM + IMB + PBB,11000.0,13500000000.0,Tangerang
+239.0,178.0,4,3,1,4,Jakarta Selatan,SHM + Hak Pakai,2200.0,3800000000.0,Tangerang
+130.0,250.0,5,3,1,1,Jakarta Selatan,SHM,3500.0,3900000000.0,Tangerang
+97.0,311.0,4,4,2,1,Jakarta Selatan,SHM,11000.0,6500000000.0,Tangerang
+485.0,550.0,3,5,1,1,Jakarta Selatan,SHM + IMB,18000.0,22000000000.0,Tangerang
+90.0,135.0,3,3,1,1,Jakarta Selatan,SHGB,2200.0,3100000000.0,Tangerang
+511.0,463.0,6,3,1,1,Jakarta Selatan,SHM,33000.0,4480000000.0,Tangerang
+205.0,410.0,6,5,1,1,Jakarta Selatan,SHM + IMB,4500.0,5500000000.0,Tangerang
+695.0,650.0,8,6,1,1,Jakarta Selatan,SHM,5500.0,9200000000.0,Tangerang
+135.0,216.0,5,4,1,1,Jakarta Selatan,SHM,3500.0,4100000000.0,Tangerang
+612.0,485.0,5,4,1,2,Jakarta Selatan,SHM,13000.0,18500000000.0,Tangerang
+790.0,700.0,6,6,1,6,Jakarta Selatan,SHM,7700.0,32000000000.0,Tangerang
+950.0,1400.0,6,4,7,1,Jakarta Selatan,SHM,23000.0,49000000000.0,Tangerang
+60.0,48.0,3,2,2,1,Jakarta Selatan,SHM,2200.0,600000000.0,Tangerang
+738.0,500.0,5,3,2,2,Jakarta Selatan,SHM + IMB,13200.0,74000000000.0,Tangerang
+719.0,657.0,10,6,2,2,Jakarta Selatan,SHM,26400.0,40000000000.0,Tangerang
+85.0,180.0,3,2,1,1,Jakarta Barat,SHM,5500.0,2400000000.0,Tangerang
+47.0,90.0,3,3,1,1,Jakarta Barat,SHM,2200.0,1300000000.0,Tangerang
+90.0,102.0,4,3,1,1,Jakarta Barat,PPJB,4400.0,1700000000.0,Tangerang
+160.0,400.0,5,5,1,2,Jakarta Barat,SHM,7700.0,5150000000.0,Tangerang
+84.0,200.0,6,4,1,1,Jakarta Barat,SHM,4400.0,3800000000.0,Tangerang
+147.0,82.0,3,3,1,1,Jakarta Barat,SHM,2200.0,2288809000.0,Tangerang
+49.0,80.0,3,2,1,1,Jakarta Barat,SHM,2200.0,850000000.0,Tangerang
+52.0,72.0,1,2,1,1,Jakarta Barat,SHGB,2200.0,1000000000.0,Tangerang
+79.0,160.0,3,2,1,1,Jakarta Barat,SHM,3500.0,1250000000.0,Tangerang
+140.0,202.0,5,4,1,1,Jakarta Barat,SHM,3500.0,3400000000.0,Tangerang
+400.0,750.0,4,3,1,2,Jakarta Barat,SHM,5500.0,8000000000.0,Tangerang
+119.0,154.0,2,2,1,1,Jakarta Barat,SHM,3500.0,2500000000.0,Tangerang
+184.0,250.0,5,4,1,3,Jakarta Barat,SHM,4400.0,3200000000.0,Tangerang
+90.0,200.0,3,3,1,2,Jakarta Barat,SHM,3500.0,1900000000.0,Tangerang
+863.0,500.0,5,3,5,3,Jakarta Barat,SHM,3500.0,8630000000.0,Tangerang
+140.0,224.0,3,2,1,1,Jakarta Barat,SHM,3500.0,3500000000.0,Tangerang
+120.0,110.0,5,2,1,1,Jakarta Barat,SHM,2200.0,1700000000.0,Tangerang
+500.0,400.0,7,4,2,1,Jakarta Barat,SHM,11000.0,10000000000.0,Tangerang
+200.0,248.0,4,4,1,2,Jakarta Barat,SHM,3500.0,6518000000.0,Tangerang
+60.0,31.0,2,1,1,1,Jakarta Barat,SHGB,1300.0,497322000.0,Tangerang
+120.0,240.0,3,3,1,3,Jakarta Barat,SHM,4400.0,30000000000.0,Tangerang
+128.0,250.0,4,3,1,2,Jakarta Barat,SHGB,5500.0,3099000000.0,Tangerang
+300.0,400.0,5,4,1,2,Jakarta Barat,SHM,5500.0,4200000000.0,Tangerang
+90.0,200.0,3,3,1,1,Jakarta Barat,SHM,3500.0,1900000000.0,Tangerang
+168.0,220.0,4,4,1,1,Jakarta Barat,SHM,3300.0,4500000000.0,Tangerang
+160.0,275.0,5,5,1,2,Jakarta Utara ,SHM,3500.0,4850000000.0,Tangerang
+130.0,90.0,4,3,1,1,Jakarta Utara ,SHM,4400.0,2100000000.0,Tangerang
+170.0,325.0,5,4,2,2,Jakarta Utara ,SHM,3500.0,4750000000.0,Tangerang
+98.0,126.0,4,4,2,2,Jakarta Utara ,SHM,2200.0,35000000000.0,Tangerang
+330.0,400.0,5,6,3,3,Jakarta Utara ,SHM,9900.0,8500000000.0,Tangerang
+144.0,250.0,4,4,1,1,Jakarta Utara ,PPJB,4400.0,8200000000.0,Tangerang
+260.0,300.0,3,2,1,1,Jakarta Utara ,SHGB,2200.0,39500000000.0,Tangerang
+144.0,297.0,5,3,2,2,Jakarta Utara ,SHM,4400.0,8500000000.0,Tangerang
+162.0,140.0,4,4,1,1,Jakarta Utara ,PPJB,2200.0,1500000000.0,Tangerang
+60.0,39.0,1,2,1,1,Jakarta Utara ,SHM,2200.0,718421053.0,Tangerang
+90.0,36.0,1,2,1,1,Jakarta Utara ,SHM,1300.0,498000000.0,Tangerang
+36.0,21.0,1,1,1,1,Jakarta Utara ,SHM,1300.0,440000000.0,Tangerang
+150.0,350.0,10,10,1,1,Jakarta Utara ,SHM,900.0,3000000000.0,Tangerang
+90.0,267.0,5,5,1,2,Jakarta Utara ,SHM,3500.0,4500000000.0,Tangerang
+150.0,200.0,3,2,1,1,Jakarta Utara ,SHM,2200.0,3100000000.0,Tangerang
+240.0,200.0,3,1,1,1,Jakarta Utara ,SHGB,1300.0,2300000000.0,Tangerang
+250.0,350.0,5,4,1,1,Jakarta Utara ,SHGB,4400.0,2700000000.0,Tangerang
+175.0,512.0,6,5,1,1,Jakarta Utara ,SHM,5500.0,7250000000.0,Tangerang
+200.0,300.0,5,5,1,2,Jakarta Utara ,SHM,4400.0,5900000000.0,Tangerang
+375.0,198.0,7,3,1,1,Jakarta Utara ,SHM,1300.0,2400000000.0,Tangerang
+320.0,600.0,5,5,1,2,Jakarta Utara ,SHM,5500.0,7500000000.0,Tangerang
+160.0,482.0,8,6,1,1,Jakarta Utara ,SHM,1300.0,4500000000.0,Tangerang
+640.0,1200.0,6,5,1,2,Jakarta Utara ,SHM,9500.0,39000000000.0,Tangerang
+80.0,105.0,4,3,1,1,Jakarta Utara ,PPJB,4400.0,2500000000.0,Tangerang
+232.0,300.0,5,3,1,3,Jakarta Timur,SHM + IMB,7700.0,4200000000.0,Tangerang
+153.0,180.0,5,5,1,2,Jakarta Timur,PPJB,3500.0,5500000000.0,Tangerang
+30.0,60.0,3,2,1,1,Jakarta Timur,AJB,1300.0,420000000.0,Tangerang
+317.0,200.0,4,2,1,2,Jakarta Timur,SHM,2200.0,3500000000.0,Tangerang
+90.0,75.0,4,3,1,1,Jakarta Timur,SHM,2200.0,1650000000.0,Tangerang
+124.0,150.0,6,4,1,1,Jakarta Timur,SHM,3500.0,2350000000.0,Tangerang
+98.0,115.0,4,5,1,1,Jakarta Timur,PPJB,3500.0,2750000000.0,Tangerang
+95.0,250.0,4,4,1,2,Jakarta Timur,SHM + IMB,4400.0,3300000000.0,Tangerang
+100.0,170.0,4,4,1,2,Jakarta Timur,SHM,3500.0,2500000000.0,Tangerang
+72.0,69.0,3,2,2,2,Jakarta Timur,SHM,2200.0,890000000.0,Tangerang
+72.0,97.0,3,2,1,2,Jakarta Timur,SHM,2200.0,1310000000.0,Tangerang
+112.0,156.0,4,3,2,2,Jakarta Timur,SHM,3500.0,3600000000.0,Tangerang
+109.0,160.0,5,4,1,2,Jakarta Timur,SHM + IMB,2200.0,2400000000.0,Tangerang
+86.0,45.0,2,1,1,1,Jakarta Timur,SHM,1300.0,690000000.0,Tangerang
+96.0,69.0,3,3,1,1,Jakarta Timur,SHM,2200.0,1600000000.0,Tangerang
+67.0,134.0,3,2,1,1,Jakarta Timur,SHM + IMB,2200.0,1150000000.0,Tangerang
+122.0,160.0,5,5,1,2,Jakarta Timur,SHM,2200.0,2465000000.0,Tangerang
+90.0,90.0,3,2,1,2,Jakarta Timur,SHM,2200.0,1398000000.0,Tangerang
+220.0,239.0,5,4,1,2,Jakarta Timur,PPJB,3500.0,3850000000.0,Tangerang
+70.0,57.0,3,2,1,2,Jakarta Timur,SHM,2200.0,880000000.0,Tangerang
+315.0,280.0,4,3,1,2,Jakarta Timur,SHM + IMB,3500.0,4300000000.0,Tangerang
+135.0,190.0,5,5,1,2,Jakarta Timur,SHM + IMB,2200.0,3400000000.0,Tangerang
+144.0,250.0,5,5,1,2,Jakarta Timur,SHM,3500.0,2250000000.0,Tangerang
